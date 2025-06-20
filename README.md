@@ -38,7 +38,7 @@ A simple linked list library with:
 
 ## 📦🚀 How to Use
 <!--To compile and use `libft.a` in your project:-->
-Clone and compile the repository
+Clone the repository
 ```bash
 git clone https://github.com/IzaroArbaiza/Libft.git Libft
 ```
