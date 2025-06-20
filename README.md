@@ -13,11 +13,10 @@ Libft is a custom implementation of a standard C library, developed as a foundat
 - Implementation of standard library behavior
 - Clean, reusable, and modular C code
 
+---
 
 
 ## 📋 Fuction List
-
-Libft includes:
 ### Part 1 – Libc Functions
 Reimplementations of standard C functions:
 - Memory functions: `memset`, `memcpy`, `memmove`, `bzero`, `calloc`, `memchr`, `memcmp`
@@ -39,7 +38,6 @@ A simple linked list library with:
 
 
 ## 📦🚀 How to Use
-
 <!--To compile and use `libft.a` in your project:-->
 Clone and compile the repository
 ```bash
