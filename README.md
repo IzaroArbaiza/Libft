@@ -29,11 +29,11 @@ Utilities to work with strings and memory:
 - String transformation: `itoa`, `strmapi`, `striteri`
 - Memory management: `calloc`, `strdup`
 
-### Bonus – Linked List Library
+<!--### Bonus – Linked List Library
 A simple linked list library with:
 - `t_list` structure
 - List management functions: `lstnew`, `lstadd_front`, `lstadd_back`, `lstsize`, `lstlast`, `lstdelone`, `lstclear`, `lstiter`, `lstmap`
-
+-->
 <br>
 
 ## 📦🚀 How to Use
